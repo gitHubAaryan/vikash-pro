@@ -1,0 +1,26 @@
+
+#vlightbox span{ display:block; }
+#vlightbox a{ display:block; float:none; margin:auto; overflow:hidden;
+background-color:#fff;opacity:1; position:relative; transition: all linear .3s;
+-webkit-transition: all linear .3s;
+-moz-transition: all linear .3s;
+-ms-transition: all linear .3s;}
+.overlly{ background:rgba(0,0,0,0.8) url(../images/zoom_icon.png) no-repeat; height:245px; width:100%; position:absolute; top:-245px; transition: all linear .3s;
+-webkit-transition: all linear .3s;
+-moz-transition: all linear .3s;
+-ms-transition: all linear .3s;}
+#vlightbox a:hover  .overlly{ top:0;}
+
+#vlightbox a img{ width:100%; height:auto; display:block; transition: all linear .3s;
+-webkit-transition: all linear .3s;
+-moz-transition: all linear .3s;
+-ms-transition: all linear .3s;}
+
+
+
+#vlightbox a img{ display:block; border:none; margin:0px; }
+#vlightbox a:hover img{ -webkit-transform: scale(1.1);
+-moz-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);}
+#vlightbox a.vlightbox_hidden{ display:none; }

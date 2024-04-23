@@ -1,0 +1,90 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!--AAAAAAAAAAAAAAAAAAAAAAAA!!! HEADER STARTS !!!AAAAAAAAAAAAAAAAAAAAAAAA-->
+<header> 
+  <!--top1-->
+  <section class="top1">
+    <div class="container">
+      <div class="row">
+        <p class="left"><i class="fa fa-phone mr5 white fs16"></i> Call support : <a href="tel:(+90 212) 123 4567" class="btn-link">+61.433380335</a></p>
+        <div class="right">
+          <div class="login_sign_up"><a href="../login.html"><i class="fa fa-lock fs15"></i> Login</a><span>|</span><a href="../register.html"><i class="fa fa-key fs15"></i> Register</a><span>|</span><a href="../my-account.html"><i class="fa fa-user fs15"></i> My Account</a></div>
+          <div class="social_con"> <a href="details.html"><i class="fa fa-facebook"></i></a> <a href="details.html"><i class="fa fa-twitter"></i></a> <a href="details.html"><i class="fa fa-google-plus"></i></a> </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--top1 ends--> 
+  
+  <!--top2-->
+  <section class="top2 trans_eff">
+    <div class="container rel">
+      <div class="row"> <a href="../index.html" class="logo"><img src="../images/logo.jpg" alt=""></a> <a href="../index.html" class="logo2"><img src="../images/logo2.jpg" alt=""></a>
+        <div class="right">
+          <div class="cs_box"> <a href="javascript:;" class="mob_search_btn search_toggle">Search</a> <a href="../shopping-cart.html" class="cart_btn"><i class="fa fa-shopping-cart trans_eff"></i> Cart: <span class="gold">0</span> Item(S)</a> </div>
+          <div class="search_con search_toggle_con">
+            <input type="text" class="search_box" placeholder="Search Products...">
+            <button class="search_btn btn" type="submit" value="submit" onclick="window.location.href=('search-items.html')"><i class="fa fa-search"></i></button>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </section>
+  <!--top2 ends--> 
+  <!--nav-->
+  <section class="container rel">
+    <div class="row">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span>
+        <p class="fl mt3"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></p>
+        <span class="black fl fs18 ttu ml3"> Menu</span> </button>
+        <a href="javascript:;" class="mob_cat_btn cat_toggle"><i class="fa fa-bars"></i> Categories</a> </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="../index.html">Home</a></li>
+          <li><a href="../about-us.html">About Us</a></li>
+          <li><a href="../categories.html">Products</a></li>
+          <li><a href="../faqs.html">Faq's</a></li>
+          <li><a href="../testimonials.html">Testimonials</a></li>
+          <li><a href="../contact-us.html">Contact Us </a></li>
+        </ul>
+      </div>
+      <ul class="categories">
+        <li><a href="../categories.html"><i class="fa fa-bars"></i> Categories</a>
+          <ul class="sub_con cat_toggle_con">
+            <li>
+              <p><a href="../sub-category.html" class="cat_link1">Men</a></p>
+              <div class="list_link2"> <a href="../listing.html">Clothing</a> <a href="../listing.html">Footwear</a> <a href="../listing.html">Fashion Accessories</a> <a href="../listing.html">Sunglasses</a> <a href="../listing.html">Bags, Belts & Wallets </a> <a href="../listing.html">Clothing</a> <a href="../listing.html">Footwear</a> <a href="../listing.html">Fashion Accessories</a> <a href="../listing.html">Sunglasses</a> <a href="../listing.html">Bags, Belts & Wallets </a> </div>
+            </li>
+            <li>
+              <p><a href="../sub-category.html" class="cat_link1">Women</a></p>
+              <div class="list_link2"> <a href="../listing.html">Clothing</a> <a href="../listing.html">Footwear</a> <a href="../listing.html">Fashion Accessories</a> <a href="../listing.html">Sunglasses</a> <a href="../listing.html">Bags, Belts & Wallets </a> </div>
+              <p><a href="../sub-category.html" class="cat_link1">Sports</a></p>
+              <div class="list_link2"> <a href="../listing.html">Clothing</a> <a href="../listing.html">Footwear</a> <a href="../listing.html">Bags, Belts & Wallets </a> </div>
+            </li>
+            <li>
+              <p><a href="../sub-category.html" class="cat_link1">Baby & Kids</a></p>
+              <div class="list_link2"> <a href="../listing.html">Clothing</a> <a href="../listing.html">Footwear</a> <a href="../listing.html">Fashion Accessories</a> <a href="../listing.html">Sunglasses</a> <a href="../listing.html">Bags, Belts & Wallets </a> </div>
+              <p><a href="../sub-category.html" class="cat_link1">Books & Media</a></p>
+              <div class="list_link2"> <a href="../listing.html">Sunglasses</a> <a href="../listing.html">Bags, Belts & Wallets </a> </div>
+            </li>
+            <li>
+              <p><a href="../sub-category.html" class="cat_link1">Home Appliances</a></p>
+              <div class="list_link2"> <a href="../listing.html">Clothing</a> <a href="../listing.html">Footwear</a> <a href="../listing.html">Fashion Accessories</a> <a href="../listing.html">Sunglasses</a> </div>
+              <p><a href="../sub-category.html" class="cat_link1">Electronics</a></p>
+              <div class="list_link2"> <a href="../listing.html">Clothing</a> <a href="../listing.html">Footwear</a> <a href="../listing.html">Fashion Accessories</a> <a href="../listing.html">Sunglasses</a> </div>
+            </li>
+            <li>
+              <p><a href="../sub-category.html" class="cat_link1">More Stores</a></p>
+              <div class="list_link2"> <a href="../listing.html">Clothing</a> <a href="../listing.html">Footwear</a> <a href="../listing.html">Fashion Accessories</a> <a href="../listing.html">Sunglasses</a> <a href="../listing.html">Bags, Belts & Wallets </a> </div>
+            </li>
+            <div class="clearfix"></div>
+          </ul>
+        </li>
+      </ul>
+      <div class="clearfix"></div>
+    </div>
+  </section>
+  <!--nav ends--> 
+</header>
+<div class="header_spacer"></div>
+<!--AAAAAAAAAAAAAAAAAAAAAAAAA!!! HEADER ENDS !!!AAAAAAAAAAAAAAAAAAAAAAAAA--> 

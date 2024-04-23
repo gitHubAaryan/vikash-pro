@@ -1,0 +1,45 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--AAAAAAAAAAAAAAAAAAAAAAAAA!!! FOOTER STARTS !!!AAAAAAAAAAAAAAAAAAAAAAAAA-->
+
+<footer>
+  <div class=" container">
+    <div class="col_01"> <span class="tittle_bdr"></span>
+      <h3>Get in Touch</h3>
+      <div class="f_contact_con">
+        <p><i class="fa fa-map-marker fs20 mr5"></i> U73/17 Marlow Street
+          Woodridge, Qld Australia, <br class="visible-lg">
+          <span class="visible-lg-inline ml20"></span> Brisbane
+          Australian Capital Territory
+          Australia 4114</p>
+        <div class="clearfix"></div>
+        <p class="mt15"><i class="fa fa-phone fs18 mr5"></i> +61.433380335</p>
+        <div class="clearfix"></div>
+        <p class="mt15 weight400"><i class="fa fa-envelope fs14 mr7"></i> <a href="mailto:info@rickyscreations.com.au" class="uu">info@rickyscreations.com.au</a></p>
+      </div>
+    </div>
+    <div class="col_02"> <span class="tittle_bdr"></span>
+      <h3>Quick Links</h3>
+      <div class="f_link"> <a href="../index.html">Home</a> <a href="../categories.html">Products </a> <a href="../testimonials.html">Testimonials</a> <a href="../newsletter.html" class="newsletter">Newsletter</a> <a href="../refer-to-friend.html" class="refar">Refer to Friend</a> <a href="../contact-us.html">Contact Us</a> <a href="../sitemap.html">Sitemap</a></div>
+    </div>
+    <div class="col_03"> <span class="tittle_bdr"></span>
+      <h3>About Ricky’s Creations</h3>
+      <div class="f_link"> <a href="../about-us.html">About Us </a> <a href="../our-story.html">Our Story </a> <a href="../terms-and-conditions.html">Terms &amp; Conditions </a> <a href="../privacy-policy.html">Privacy Policy </a> <a href="../legal-disclaimer.html">Legal Disclaimer </a> <a href="../return-policy.html">Return Policy </a> <a href="../shipping-information.html">Shipping Information </a> <a href="../faqs.html">FAQ’s </a> </div>
+    </div>
+    <div class="col_04"> <span class="tittle_bdr"></span>
+      <h3>Social With Us</h3>
+      <div class="social_midea_con"> <a href="details.html" class="trans_eff icon_con" title="Facebbok"><i class="fa fa-facebook"></i></a> <a href="details.html" class="trans_eff icon_con" title="Twitter"><i class="fa fa-twitter"></i></a> <a href="details.html" class="icon_con trans_eff" title="Google+"><i class="fa fa-google-plus"></i></a> </div>
+      <span class="tittle_bdr mt35"></span>
+      <h3>Social With Us</h3>
+      <p class="mt20"><img src="../images/payment_icon.png" alt=""></p>
+    </div>
+    <div class="clearfix"></div>
+    <div class="copyright_bg">
+      <p>Copyright © 2016 Ricky's Creations, All rights reserved.<br class="visible-xs">
+        <span class="hidden-xs">|</span> Powered by : <a href="http://www.e-web-solutions.net/" target="_blank">EWS Net Pvt. Ltd.</a></p>
+    </div>
+  </div>
+  </div>
+</footer>
+<p id="back-top"> <a href="#top" class="btn btn-warning trans_eff"><i class="fa fa-arrow-up"></i></a></p>
+
+<!--AAAAAAAAAAAAAAAAAAAAAAAAA!!! FOOTER ENDS !!!AAAAAAAAAAAAAAAAAAAAAAAAA--> 
